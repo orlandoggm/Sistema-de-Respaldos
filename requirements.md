@@ -7,9 +7,7 @@
 - Se deben copiar unicamente archivos importantes, no archivos del sistema, ejecutables, accesos directos, librerías, ni cualquier otro archivo inutil
 - Para practicidad, el sistema unicamente debe funcionar con terminal del sistema, no debe tener interfaz gráfica completja.
 - Los archivos importantes se refiere a documentos pdf, word, excel, powerpoint, sldprt, entre otros formatos usualmente creados por aplicaciones, diseño, administración, ingeniería y un largo etcetera en una empresa. 
-- Los archivos deben de almacenarse en carpetas diferentes para cada documento.
+- Los archivos deben de almacenarse en carpetas diferentes para cada tipo de documento, es decir, en una carpeta archivos word, en otra archivos pdf, así hasta completar todos los archivos encontrados.
 - No se deben necesitar de programas o sistemas externos, debe ejecutarse sin problema aunque el sistema esté recien creado
-
-### Posibles Mejoras
-
 - Para evitar explorar excesivamente carpetas, se puede enfocar unicamente en copiar archivos de las carpetas principales: Escritorio, Descargas, Documentos, Imagenes, Videos
+- No se deben guardar archivos de código, es decri cualquier archivo tipo vs, py, ts, js, html, etc. etc., esto porque los archivos de código ya se guardan en github.
